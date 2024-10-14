@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+.dist-info/
+build/
+dist/
+
+# Virtual environment
+# Uncomment this line if you use a virtualenv
+# venv/
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python egg files
+*.egg
+
+# C extensions
+*.so
+
+# IDEs and editors
+# PyCharm
+.idea/
+# VS Code
+.vscode/
+# Visual Studio
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+.dmypy.json
